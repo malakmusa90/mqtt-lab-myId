@@ -20,7 +20,6 @@ The project includes:
 ### 1. Install dependencies
 After downloading or cloning the project, run:
 
-bash
 npm install //This will install all required Node.js packages.
 
 2. Start Mosquitto broker
